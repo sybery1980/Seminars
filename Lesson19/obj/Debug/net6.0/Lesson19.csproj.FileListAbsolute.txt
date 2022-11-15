@@ -1,0 +1,15 @@
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\Lesson19.csproj.AssemblyReference.cache
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\Lesson19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\Lesson19.AssemblyInfoInputs.cache
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\Lesson19.AssemblyInfo.cs
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\Lesson19.csproj.CoreCompileInputs.cache
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\bin\Debug\net6.0\Lesson19.exe
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\bin\Debug\net6.0\Lesson19.deps.json
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\bin\Debug\net6.0\Lesson19.runtimeconfig.json
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\bin\Debug\net6.0\Lesson19.dll
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\bin\Debug\net6.0\Lesson19.pdb
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\Lesson19.dll
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\refint\Lesson19.dll
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\Lesson19.pdb
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\Lesson19.genruntimeconfig.cache
+C:\Users\syber\OneDrive\Desktop\seminars\Lesson19\obj\Debug\net6.0\ref\Lesson19.dll

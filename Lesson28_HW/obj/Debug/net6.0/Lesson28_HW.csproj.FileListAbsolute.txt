@@ -1,0 +1,15 @@
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/bin/Debug/net6.0/Lesson28_HW
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/bin/Debug/net6.0/Lesson28_HW.deps.json
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/bin/Debug/net6.0/Lesson28_HW.runtimeconfig.json
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/bin/Debug/net6.0/Lesson28_HW.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/bin/Debug/net6.0/Lesson28_HW.pdb
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/Lesson28_HW.csproj.AssemblyReference.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/Lesson28_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/Lesson28_HW.AssemblyInfoInputs.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/Lesson28_HW.AssemblyInfo.cs
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/Lesson28_HW.csproj.CoreCompileInputs.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/Lesson28_HW.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/refint/Lesson28_HW.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/Lesson28_HW.pdb
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/Lesson28_HW.genruntimeconfig.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson28_HW/obj/Debug/net6.0/ref/Lesson28_HW.dll

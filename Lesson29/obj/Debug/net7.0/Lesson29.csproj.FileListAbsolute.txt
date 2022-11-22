@@ -1,0 +1,15 @@
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/bin/Debug/net7.0/Lesson29
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/bin/Debug/net7.0/Lesson29.deps.json
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/bin/Debug/net7.0/Lesson29.runtimeconfig.json
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/bin/Debug/net7.0/Lesson29.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/bin/Debug/net7.0/Lesson29.pdb
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/Lesson29.csproj.AssemblyReference.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/Lesson29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/Lesson29.AssemblyInfoInputs.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/Lesson29.AssemblyInfo.cs
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/Lesson29.csproj.CoreCompileInputs.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/Lesson29.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/refint/Lesson29.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/Lesson29.pdb
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/Lesson29.genruntimeconfig.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson29/obj/Debug/net7.0/ref/Lesson29.dll

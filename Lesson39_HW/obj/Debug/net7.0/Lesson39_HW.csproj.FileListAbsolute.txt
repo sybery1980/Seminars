@@ -1,0 +1,15 @@
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/bin/Debug/net7.0/Lesson39_HW
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/bin/Debug/net7.0/Lesson39_HW.deps.json
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/bin/Debug/net7.0/Lesson39_HW.runtimeconfig.json
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/bin/Debug/net7.0/Lesson39_HW.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/bin/Debug/net7.0/Lesson39_HW.pdb
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/Lesson39_HW.csproj.AssemblyReference.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/Lesson39_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/Lesson39_HW.AssemblyInfoInputs.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/Lesson39_HW.AssemblyInfo.cs
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/Lesson39_HW.csproj.CoreCompileInputs.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/Lesson39_HW.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/refint/Lesson39_HW.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/Lesson39_HW.pdb
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/Lesson39_HW.genruntimeconfig.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson39_HW/obj/Debug/net7.0/ref/Lesson39_HW.dll

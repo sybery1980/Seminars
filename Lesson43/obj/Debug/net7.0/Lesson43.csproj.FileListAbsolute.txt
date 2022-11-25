@@ -1,0 +1,15 @@
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/Lesson43.csproj.AssemblyReference.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/Lesson43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/Lesson43.AssemblyInfoInputs.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/Lesson43.AssemblyInfo.cs
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/Lesson43.csproj.CoreCompileInputs.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/bin/Debug/net7.0/Lesson43
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/bin/Debug/net7.0/Lesson43.deps.json
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/bin/Debug/net7.0/Lesson43.runtimeconfig.json
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/bin/Debug/net7.0/Lesson43.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/bin/Debug/net7.0/Lesson43.pdb
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/Lesson43.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/refint/Lesson43.dll
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/Lesson43.pdb
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/Lesson43.genruntimeconfig.cache
+/Users/vitaliizaretckii/Desktop/Seminars/Lesson43/obj/Debug/net7.0/ref/Lesson43.dll
